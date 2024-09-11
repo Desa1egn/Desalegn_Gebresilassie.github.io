@@ -3,7 +3,7 @@
 
 ### Education 
 -  MSc (Twente)
--  MSc (JImma)
+-  MSc (Jimma)
 
 ### Work Experience
 -  Mechanical Engineer
