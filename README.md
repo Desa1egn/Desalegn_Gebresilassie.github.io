@@ -1,17 +1,18 @@
 # Data Analyst
-
+*Tech Stack: Python, SQL, Power BI, Tableau*
 
 ### Education 
--  MSc (Twente)
--  BSc (Jimma)
+-  MSc, Mechanical Engineering,  University of Twente (NL)
+-  BSc, Mechanical Engineering, Jimma University (ET)
 
 ### Work Experience
--  Mechanical Engineer
--  Research Engineer
--  Graduate Assistant
+-  Mechanical Engineer - *Philips Consumer Lifestyle, Drachten*
+-  Research Engineer - *Thermal Laboratory, University of Twente*
+-  Graduate Assistant - *Jimma University, Jimma*
 
 ### Projects
 - FIFA 2020 Football Analysis
 - Heart Disease Classification (ML)
 
-### Contact Me
+#### Contact Me
+email: desalegn.gebresilassie@gmail.com
