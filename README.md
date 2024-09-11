@@ -3,7 +3,7 @@
 
 ### Education 
 -  MSc (Twente)
--  MSc (Jimma)
+-  BSc (Jimma)
 
 ### Work Experience
 -  Mechanical Engineer
@@ -11,7 +11,7 @@
 -  Graduate Assistant
 
 ### Projects
-- Football analysis
+- FIFA 2020 Football Analysis
 - Heart Disease Classification (ML)
 
 ### Contact Me
