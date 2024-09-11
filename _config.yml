@@ -1,7 +1,9 @@
 title: Desalegn Gebresilassie
 logo: "/images/desu.jpg?raw=true"
 description: >- # this means to ignore newlines until "description" is done
-  A showcase of my projects, skills, and experiences.
+
+A showcase of my projects, skills, and experiences.
+
 # Social Links (optional)
 email: your-email@example.com
 twitter_username: your-twitter-handle
@@ -11,11 +13,10 @@ linkedin: your-linkedin-url
 # Theme and appearance
 theme: jekyll-theme-minimal # You can change to any other theme you prefer
 
-# Author info
-author:
-name: Your Name
-email: your-email@example.com
+# Custom style for dark mode
+sass:
+  style: compressed
 
-markdown: kramdown
-highlighter: rouge
+# Custom CSS (Create a new file: assets/css/style.scss to apply these changes)
+custom_css: "/assets/css/style.scss"
 
