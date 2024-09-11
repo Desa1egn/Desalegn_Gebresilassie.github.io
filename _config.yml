@@ -14,9 +14,9 @@ linkedin: your-linkedin-url
 theme: jekyll-theme-minimal # You can change to any other theme you prefer
 
 # Custom style for dark mode
-sass:
-  style: compressed
+#sass:
+  #style: compressed
 
 # Custom CSS (Create a new file: assets/css/style.scss to apply these changes)
-custom_css: "/assets/css/style.scss"
+#custom_css: "/assets/css/style.scss"
 
